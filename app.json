@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#303538",
+    "navigationBarTitleText": "程暘个人简历",
+    "navigationBarTextStyle":"white"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "isShowContact": true,
+  "workList": [
+    {
+      "title": "上海佰晟通（2015年11月~至今）",
+      "projectList": [
+        {
+          "projectName": "mo9信用钱包、飞鼠贷",
+          "info": "现金贷产品“mo9信用钱包”，“飞鼠贷”，上线 Android/IOS/微信公众号。月放贷超10亿元，累积借贷人数60万。2017年底上线印尼借贷产品。"
+        },
+        {
+          "projectName": "Cred",
+          "info": "区块链金融产品（理财+借贷）Cred，上线PC/Android/ IOS版本。理财产品规模超过200个BTC，同时获得美国持牌金融机构3亿。美金授信额度，可用于数字货币抵押借款。社区人数4万人。网址：www.mycred.io"
+        },
+        {
+          "projectName": "先玩后付",
+          "info": "游戏信用支付产品“先玩后付”，包括支付网关和移动端App。累积接入商户超400 家， 例如：360手机助手、同步推、当乐等。涉及手游和页游。累积付费用户超3300万人。网 址： www.mo9.com"
+        }
+      ]
+    },
+    {
+      "title": "苏州科达（2013年11月~2015月09月）",
+      "projectList": [
+        {
+          "projectName": "河南省公安厅审讯项目",
+          "info": "为河南省公安厅机关单位提供文字、语音、视频一体的管理系统。"
+        }
+      ]
+    },
+    {
+      "title": "NEC（2012年5月~2013年11月）",
+      "projectList": [
+        {
+          "projectName": "三井住友银行清算系统开发",
+          "info": "使用COBOL语言根据需求文档作大型机开发。"
+        },
+        {
+          "projectName": "东京证券清算系统开发",
+          "info": "根据需求文档完成证券交易所的每日清算需求。"
+        }
+      ]
+    }
+
+  ],
+  "otherWork": [
+    {
+      "title": "互联网金融",
+      "info":"开发、维护至日活10万人，月放贷10亿元的APP。"
+    },
+    {
+      "title": "区块链",
+      "info":"管理、开发数字货币借贷产品。"
+    },
+    {
+      "title": "支付系统",
+      "info":"主导开发线上支付网关系统，对接了支付宝、微信、连连、易宝等渠道，包含放款、代扣功能。"
+    },
+    {
+      "title": "消息系统",
+      "info":"主导开发发送短信、邮件、APP推送系统。"
+    },
+    {
+      "title": "订单系统",
+      "info":"主导开发的成熟、安全的借贷订单系统。"
+    },
+    {
+      "title": "信用支付",
+      "info":"合作商户超400家，累计用户3300万。"
+    },
+    {
+      "title": "团队管理",
+      "info":"敏捷开发，前期负责10人的后端技术团队，后期作为项目经理协调合作所有开发人员、测试人员、产品经理、UI/UX。"
+    },
+    {
+      "title": "个人评价",
+      "info":"技术的内核，产品的思维，商务的口齿。永远富有激情，永远在路上。"
+    }
+  ],
+  "baseInfo": {
+    "enName": "James.Cheng",
+    "title": "Java Development Engineer",
+    "nameAndSex": "程暘 / 男",
+    "birthday": "1990/11/18",
+    "diplomaAndSchool": "本科 /上海电力学院",
+    "workAge": "6年",
+    "location": "上海",
+    "wantPosition": "Java高级工程师",
+    "salary": "30K~40K",
+    "mobilePhone": "13564546025",
+    "email": "chengyang6025@163.com",
+    "wechatNo": "13564546025",
+    "github": "@nihaoxiaoyang",
+    "githubUrl": "https://github.com/nihaoxiaoyang"
+  },
+  "skillList": [
+    "项目管理：Jira/Tower/confluence/甘特图/燃尽图",
+    "Web框架：Spring Boot/Hibernate/Mybatis",
+    "服务搭建：Nginx /Jenkins",
+    "分布式消息：RabbitMQ/AliyunMq",
+    "数据库相关：MySQL/Oracle/Mycat/Hbase/Redis",
+    "版本管理：Svn/Git",
+    "测试：Junit",
+    "微信：小程序开发",
+    "图表工具：processOn",
+    "IDE：Eclipse/IntelliJ"
+  ]
+}
